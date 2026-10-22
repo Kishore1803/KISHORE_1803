@@ -62,8 +62,8 @@ I'm a passionate Java Full Stack Developer who enjoys building responsive web ap
 
 ### 📫 Connect With Me
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- GitHub: https://github.com/Kishore1803
+- LinkedIn: https://www.linkedin.com/in/kishore-k-25b131288
 
 ---
 
